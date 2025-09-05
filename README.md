@@ -1,3 +1,1 @@
-# my_project
-# Courses_online
-# Courses_online
+Simple set uos for a-Shell and ish emulators for ios
